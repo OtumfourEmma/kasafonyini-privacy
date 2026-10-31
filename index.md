@@ -33,5 +33,7 @@ About NexaByte Solutions:
 This application was proudly designed and developed by NexaByte Solutions, a technology and creative agency based in Kumasi, Ghana. We specialize in bridging the gap between creative design and technical expertise. From custom mobile apps and stunning websites to reliable IT support, our mission is to help businesses and individuals thrive in the digital age.
 
 Website: https://otumfouremma.github.io/nexabyte-solutions/
+
 Email: nexabytesolutions07@gmail.com
+
 WhatsApp: +233 54 846 3340
